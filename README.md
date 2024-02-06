@@ -1,2 +1,2 @@
-# memoryTranselatorForSherlock
-A Memory transelator for Sherlock
+# Simple memory transelator for sherlock
+
