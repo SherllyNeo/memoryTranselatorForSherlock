@@ -30,7 +30,7 @@ var NumToImages = {
 "27":"pick axe",
 "28":"dry wall knife",
 "29":"screw driver",
-"30-:stick (very formidable weapon)",
+"30":"stick (very formidable weapon)",
 "31":"lance",
 "32":"sword",
 "33":"throwing star",
@@ -64,7 +64,7 @@ var NumToImages = {
 "61":"unicorn (duh)",
 "62":"siren",
 "63":"mermaid",
-"64":"jackelope",
+"64":"vampire",
 "65":"wyrm",
 "66":"gargoyle",
 "67":"werewolf ",
@@ -99,7 +99,7 @@ var NumToImages = {
 "96":"honey badger",
 "97":"orca",
 "98":"beluga",
-"99":"great white shark",
+"99":"great white shark"
 
 }
 
